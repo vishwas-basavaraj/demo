@@ -2,4 +2,4 @@ this is the testing
 
 second testing
 
-tag reset check
+version checkout testing
